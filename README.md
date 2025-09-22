@@ -9,14 +9,14 @@ My main goal is to pursue a degree abroad in Information Security or Systems Dev
     <a href="https://github.com/felipemmattia?tab=repositories&sort=stargazers">
         <img 
             alt="Total of Stars" 
-            title="GitHub Total of stars" 
+            title="GitHub Total of Stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/felipemmattia?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/felipemmattia?tab=followers">
         <img 
-            alt="Followers" 
-            title="Follow me on GitHub!" 
+            alt="Total of Followers" 
+            title="GitHub Total of Followers" 
             src="https://custom-icon-badges.demolab.com/github/followers/felipemmattia?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
