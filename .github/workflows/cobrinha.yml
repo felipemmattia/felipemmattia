@@ -1,4 +1,4 @@
-name: Cobrinha do README
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
