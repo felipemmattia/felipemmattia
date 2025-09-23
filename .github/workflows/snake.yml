@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # roda automaticamente todo dia
+  schedule: # Runs automatically every day
     - cron: "0 0 * * *"
-  workflow_dispatch: # permite rodar manualmente
+  workflow_dispatch: # Allows to run manually
 
 jobs:
   build:
