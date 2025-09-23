@@ -1,24 +1,31 @@
-name: Generate Snake
+name: Snake Generator
 
 on:
-  schedule: # Runs automatically every day
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allows to run manually
+  schedule:
+    - cron: "0 0 * * *" # Runs every day
+  workflow_dispatch:     # Allows to run manually
+  push:
+    branches:
+      - master
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
-        id: snake
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-grey.svg?palette=github
+            dist/github-contribution-grid-snake-grey-light.svg?color_snake=808080&color_dots=#ffffff,#c0c0c0,#a0a0a0,#808080,#606060
+            dist/github-contribution-grid-snake-grey-dark.svg?color_snake=808080&color_dots=#303030,#505050,#707070,#909090,#b0b0b0
 
-      - name: Push to output branch
+      - name: Deploy to GitHub Page
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
