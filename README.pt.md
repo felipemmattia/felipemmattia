@@ -71,3 +71,5 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemmattia&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=pt-br" 
   />
 </p>
+
+![Animacao da Cobrinha](https://github.com/felipemmattia/felipemmattia/blob/output/github-contribution-grid-snake.svg)
