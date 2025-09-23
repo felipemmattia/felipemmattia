@@ -14,6 +14,12 @@ My main goal is to pursue a degree abroad in Information Security or Systems Dev
             title="GitHub Total Stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/felipemmattia?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Stars"
         />
+    <a href="https://github.com/felipemmattia?tab=repositories&type=forks">
+        <img 
+            alt="Total of Forks" 
+            title="GitHub Total Forks" 
+            src="https://custom-icon-badges.demolab.com/github/stars/felipemmattia?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=fork&label=Forks"
+        />
     </a>
     <a href="https://github.com/felipemmattia?tab=followers">
         <img 
@@ -24,7 +30,7 @@ My main goal is to pursue a degree abroad in Information Security or Systems Dev
     </a>
 </p>
 
----
+##
 
 ### 🤖 Technologies and Languages
 
@@ -44,6 +50,8 @@ My main goal is to pursue a degree abroad in Information Security or Systems Dev
 
 <br/>
 <br/>
+
+##
 
 ### 📊 Stats
 
