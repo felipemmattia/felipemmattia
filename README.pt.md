@@ -72,4 +72,6 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
   />
 </p>
 
-![Animacao da Cobrinha](https://github.com/felipemmattia/felipemmattia/blob/output/github-contribution-grid-snake.svg)
+##
+
+![Animacao da Cobrinha](https://github.com/felipemmattia/felipemmattia/blob/output/github-contribution-grid-snake-grey.svg)
