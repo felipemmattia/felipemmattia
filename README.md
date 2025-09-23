@@ -71,3 +71,5 @@ My main goal is to pursue a degree abroad in Information Security or Systems Dev
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemmattia&theme=dark&layout=compact&custom_title=Technologies&langs_count=5" 
   />
 </p>
+
+![Snake Animation](https://github.com/felipemmattia/felipemmattia/blob/output/github-contribution-grid-snake.svg)
