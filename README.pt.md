@@ -14,6 +14,12 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
             title="Total de Estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/felipemmattia?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Estrelas"
         />
+     <a href="https://github.com/felipemmattia?tab=repositories&type=forks">
+        <img 
+            alt="Total de Forks" 
+            title="Total de Forks no Github" 
+            src="https://custom-icon-badges.demolab.com/github/stars/felipemmattia?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=fork&label=Forks"
+        />
     </a>
     <a href="https://github.com/felipemmattia?tab=followers">
         <img 
@@ -24,7 +30,7 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
     </a>
 </p>
 
----
+##
 
 ### 🤖 Tecnologias e Linguagens
 
@@ -44,6 +50,8 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
 
 <br/>
 <br/>
+
+##
 
 ### 📊 Estatísticas
 
