@@ -74,6 +74,8 @@ My main goal is to pursue a degree abroad in Information Security or Systems Dev
 
 ##
 
+### Commits
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipemmattia/felipemmattia/output/github-contribution-grid-snake-grey-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipemmattia/felipemmattia/output/github-contribution-grid-snake-grey-light.svg">
