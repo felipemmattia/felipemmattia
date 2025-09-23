@@ -74,4 +74,4 @@ My main goal is to pursue a degree abroad in Information Security or Systems Dev
 
 ##
 
-![Snake Animation](https://github.com/felipemmattia/felipemmattia/blob/output/github-contribution-grid-snake-grey.svg)
+![Snake animation](https://raw.githubusercontent.com/felipemmattia/felipemmatttia/output/github-contribution-grid-snake-grey.svg)
