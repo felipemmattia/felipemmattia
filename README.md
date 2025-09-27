@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe M. Mattia
+# 🧑‍💻 Felipe M. Mattia
 
 [🇧🇷 Português](./README.pt.md) | [🇺🇸 English](./README.md)
 
